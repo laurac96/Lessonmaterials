@@ -31,7 +31,7 @@ class Triangle(Shape):
 ###Example 1
 
 from abc import ABC, abstractmethod
-
+#abc is inbuilt library
 
 class Shape(ABC):
     @abstractmethod

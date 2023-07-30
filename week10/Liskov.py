@@ -27,3 +27,5 @@ class BestOfCompilation(Album):
     def __init__(self, name, artist, songs):
         super().__init__(name, artist, songs)
 
+#super - you have to take all functionalities of parent class. This is calling the function of class Album
+
